@@ -3,7 +3,7 @@ This a Paint project made in Python with Tkinter. Tkinter is a Python binding to
 
 I converted it to an exe so it can be run without having to download python.
 
-Steps to follow up:
+# Steps to follow up:
 
 1: You can access to the entire code clicking on paint.py. -
 2: Download the paint.exe file which is inside dist folder.  -
