@@ -5,7 +5,7 @@ Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs
 
 I converted it to an exe so it can be run without having to download python.
 
-## Steps to follow up:
+## Steps to follow:
 
 * You can access to the entire code clicking on paint.py. 
 * Download the paint.exe file which is inside dist folder.  
