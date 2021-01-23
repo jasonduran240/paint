@@ -1,5 +1,5 @@
 # Paint Project
-This a Paint project made in **Python with Tkinter**. Tkinter is a Python binding to the _Tk GUI toolkit_. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. 
+This a Paint app project made in **Tkinter and Python**. Tkinter is a Python binding to the _Tk GUI toolkit_. It is the standard Python interface to the Tk GUI toolkit, and is Python's de facto standard GUI. 
 
 Tkinter is included with standard Linux, Microsoft Windows and Mac OS X installs of Python. *The name Tkinter comes from Tk interface.*
 
